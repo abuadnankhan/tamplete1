@@ -1,1 +1,1 @@
-# templete1
+# template1
